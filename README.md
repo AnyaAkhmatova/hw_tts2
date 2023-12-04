@@ -62,7 +62,7 @@ wandb.login()
 !python3 inference.py -c ./inference/config.json -r ./final_model/exp8/model_best.pth
 ```
 
-Комментарий: обучения запускалось в kaggle, инференс - в google colab.
+Комментарий: обучение запускалось в kaggle, инференс - в google colab.
 
 ____
 
