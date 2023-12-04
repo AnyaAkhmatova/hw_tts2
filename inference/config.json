@@ -1,0 +1,7 @@
+{
+    "inference": {
+        "path": "./inference/",
+        "output_path": "./inference/results/",
+        "wandb_logging": true
+    }
+}
